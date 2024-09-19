@@ -16,7 +16,7 @@
 <p align="center">
 <br />
 <br />
-<img src="hacker gif.gif" height="80%" width="80%" alt="Work in Progress"/>
+<img src="lock.gif" height="80%" width="80%" alt="Work in Progress"/>
 <br />
 <br />
 
