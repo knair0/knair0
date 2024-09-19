@@ -5,13 +5,6 @@
 
 - <b>[Basic Configuration of Network](https://github.com/knair0/Basic-Configuration-of-a-Network.git)</b>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/knair0/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/knair0/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/knair0/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/knair0/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/knair0/azure-network-protocols)
  
 <p align="center">
 <br />
