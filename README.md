@@ -1,7 +1,5 @@
-## Hi there 👋
 
-
-<h1>I'm Kiran, an IT Professional</a>☺</h1>
+<h1>I'm Kiran! </a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
