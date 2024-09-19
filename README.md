@@ -3,10 +3,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>[Basic Configuration of Network](https://github.com/knair0/Basic-Configuration-of-a-Network.git)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/knair0/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/knair0/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/knair0/ticket-lifecycle)
+- <b>Basic Configuration of Network</b>
+  - [Configuration of Router](https://github.com/knair0/Configuration-of-Router.git)
+  - [Configuration of Switch](https://github.com/knair0/Configuration-of-Switch.git)
+  - [Configuration of End Devices](https://github.com/knair0/Configuration-of-End-Devices.git)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/knair0/osticket-prereqs)
