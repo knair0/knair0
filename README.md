@@ -12,6 +12,11 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/knair0/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/knair0/azure-network-protocols)
+ 
+<img src="hacker gif.gif" height="80%" width="80%" alt="Work in Progress"/>
+<br />
+<br />
+
 <!--
 **knair0/knair0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
